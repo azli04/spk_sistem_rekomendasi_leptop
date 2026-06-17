@@ -1,1 +1,0 @@
-# spk_sistem_rekomendasi_leptop
